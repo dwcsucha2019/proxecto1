@@ -1,4 +1,4 @@
 <?php
-	// Phpinfo
+	// Phpinfo version Remota
 	phpinfo();
 ?>
